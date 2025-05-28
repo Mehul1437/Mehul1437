@@ -1,7 +1,5 @@
 
-# Mehul Akoliya&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-
-
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Mehul Akoliya&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-MehulAkoliya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehulakoliya/)](https://www.linkedin.com/in/mehulakoliya/) 
 [![Leetcode Badge](https://img.shields.io/badge/-MehulAkoliya-orange?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.com/mehul_akoliya/)](https://leetcode.com/mehul_akoliya/)
@@ -9,11 +7,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-mehul21.cad@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mehul21.cad@gmail.com)](mailto:mehul21.cad@gmail.com)
 
 
-<br/>
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### 👋 Hi there! I'm Mehul Akoliya — a passionate technologist with a Master's in Applied Computer Science.
+<!-- # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
+
+### Hello World! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">! I'm Mehul Akoliya — a passionate technologist with a Master's in Applied Computer Science.
 - 💡 I'm a proficient problem solver and lifelong learner.
 - 👨‍💻 I aspire to contribute to impactful software solutions with a strong growth mindset.
 
