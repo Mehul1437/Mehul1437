@@ -11,7 +11,7 @@
 
 <!-- # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
-### Hello World! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  I'm Mehul Akoliya — a passionate technologist with a Master's in Applied Computer Science.
+### Hello World! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> &nbsp; I'm Mehul Akoliya — a passionate technologist with a Master's in Applied Computer Science.
 - 💡 I'm a proficient problem solver and lifelong learner.
 - 👨‍💻 I aspire to contribute to impactful software solutions with a strong growth mindset.
 
